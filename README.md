@@ -8,3 +8,6 @@ Pythonの学習記録用リポジトリです。
 
 ## 実行方法
 `python hello.py` で実行できます。
+
+## 可視化の練習
+![アヤメのグラフ](iris_plot.png)
